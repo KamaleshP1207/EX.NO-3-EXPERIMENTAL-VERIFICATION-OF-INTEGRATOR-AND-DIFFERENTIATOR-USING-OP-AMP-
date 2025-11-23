@@ -1,9 +1,12 @@
 3. ##**EX.NO:
 ** 3  EXPERIMENTAL VERIFICATION OF INTEGRATOR AND DIFFERENTIATOR USING OP-AMP 
             
-**DATE:**  
-             3A INTEGRATOR
+**DATE:06/09/2025**
+
+**SLOT:5M1-1**
 ---
+3A INTEGRATOR
+
 
 ## AIM
 To design and test the performance of integrator and differentiator circuits using Op-amp
